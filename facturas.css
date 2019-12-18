@@ -1,0 +1,36 @@
+div {
+    margin-bottom: 15px;
+    text-align: center;
+}
+ 
+label {
+	width: 100px;
+	display: inline-block;
+}
+ 
+input {
+	width: 100px;
+}
+ 
+th{
+	width: 136px;
+}
+ 
+td {
+	text-align: right;
+}
+ 
+td:first-child {
+	text-align: left;
+}
+ 
+tfoot th {
+	text-align: left;
+}
+ 
+tfoot th:last-child {
+	text-align: right;
+}
+ 
+
+ 
